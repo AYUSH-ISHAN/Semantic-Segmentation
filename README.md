@@ -3,7 +3,7 @@
 # Introduction :
   --<br>
 # UNets Model:
-  
+  <img src = "https://github.com/AYUSH-ISHAN/Semantic-Segmentation/blob/main/U-nets.png" height = "560" width = "700"/>
 # Result and Analysis :
   --<br>
 # To Do :
