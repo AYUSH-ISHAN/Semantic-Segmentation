@@ -1,9 +1,11 @@
 <h1>SEMANTIC SEGMENTATION<h1>
   
 # Introduction :
-  Semantic segmentation describes the process of associating each pixel of an image with a class label, (such as flower, person, road, sky, ocean, or car). Applications for semantic segmentation include: Autonomous driving.<br>
+  Semantic segmentation describes the process of associating each pixel of an image with a class label, (such as flower, person, road, sky, ocean, or car).           Applications for semantic segmentation include: Autonomous driving.<br>
+  
 # UNets Model:
   <img src = "https://github.com/AYUSH-ISHAN/Semantic-Segmentation/blob/main/U-nets.png" height = "560" width = "700"/>
+  
 # Result and Analysis :
   To get an idea of output, I trained the moel for less time interval (or for less number of epochs). Here, is a table to summarise my study.<br>
   However, in the folders <B>sematic_output</B> and <B>Semantic_out_2</B>, I have put all my results.<br>
@@ -23,7 +25,7 @@
     </tr>
   </table>
   
-  <B> However, after some slight changes in the model, I got these results.</B>
+  <p align = "center"><B> However, after some slight changes in the model, I got these results.</B></p>
   
   <table align = "center">
     <tr>
