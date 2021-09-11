@@ -24,9 +24,9 @@
       <td><img src ="semantic_output/output_4_epo.png"/></td>
     </tr>
   </table>
-  
+  <br>
   <p align = "center"><B> However, after some slight changes in the model, I got these results.</B></p>
-  
+  <br>
   <table align = "center">
     <tr>
       <td><img src ="semantic_output/output_1_model_2.png"/></td>
