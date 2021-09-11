@@ -2,6 +2,11 @@
   
 # Introduction :
   Semantic segmentation describes the process of associating each pixel of an image with a class label, (such as flower, person, road, sky, ocean, or car).           Applications for semantic segmentation include: Autonomous driving.<br>
+
+# Dataset :
+  
+  Here, is a <a href = "https://www.kaggle.com/dansbecker/cityscapes-image-pairs">link</a> to the dataset which I have used.<br>
+  This dataset has 2975 training images files and 500 validation image files. Each image file is 256x512 pixels, and each file is a composite with the original       photo on the left half of the image, alongside the labeled image (output of semantic segmentation) on the right half.
   
 # UNets Model:
   <img src = "https://github.com/AYUSH-ISHAN/Semantic-Segmentation/blob/main/U-nets.png" height = "560" width = "700"/>
