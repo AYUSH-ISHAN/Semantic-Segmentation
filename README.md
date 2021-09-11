@@ -10,30 +10,30 @@
   
   <table>
     <tr>
-      <td><img src ="sematic_output/output_1_epo.png"/></td>
+      <td><img src ="semantic_output/output_1_epo.png"/></td>
     </tr>
     <tr>
-      <td><img src ="sematic_output/output_2_epo.png"/></td>
+      <td><img src ="semantic_output/output_2_epo.png"/></td>
     </tr>
     <tr>
-      <td><img src ="sematic_output/output_3_epo.png"/></td>
+      <td><img src ="semantic_output/output_3_epo.png"/></td>
     </tr>
     <tr>
-      <td><img src ="sematic_output/output_4_epo.png"/></td>
+      <td><img src ="semantic_output/output_4_epo.png"/></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src ="sematic_output/output_1_model_2.png"/></td>
+      <td><img src ="semantic_output/output_1_model_2.png"/></td>
     </tr>
     <tr>
-      <td><img src ="sematic_output/output_2_model_2.png"/></td>
+      <td><img src ="semantic_output/output_2_model_2.png"/></td>
     </tr>
     <tr>
-      <td><img src ="sematic_output/output_3_model_2.png"/></td>
+      <td><img src ="semantic_output/output_3_model_2.png"/></td>
     </tr>
     <tr>
-      <td><img src ="sematic_output/output_4_model_2.png"/></td>
+      <td><img src ="semantic_output/output_4_model_2.png"/></td>
     </tr>
   </table>
   
