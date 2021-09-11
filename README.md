@@ -6,9 +6,9 @@
   <img src = "https://github.com/AYUSH-ISHAN/Semantic-Segmentation/blob/main/U-nets.png" height = "560" width = "700"/>
 # Result and Analysis :
   To get an idea of output, I trained the moel for less time interval (or for less number of epochs). Here, is a table to summarise my study.<br>
-  However, in the folders <B>sematic_output</B> and <B>Semantic_out_2</B>, I have put all my results.
+  However, in the folders <B>sematic_output</B> and <B>Semantic_out_2</B>, I have put all my results.<br>
   
-  <table>
+  <table align = "center">
     <tr>
       <td><img src ="semantic_output/output_1_epo.png"/></td>
     </tr>
@@ -22,7 +22,10 @@
       <td><img src ="semantic_output/output_4_epo.png"/></td>
     </tr>
   </table>
-  <table>
+  
+  <B> However, after some slight changes in the model, I got these results.</B>
+  
+  <table align = "center">
     <tr>
       <td><img src ="semantic_output/output_1_model_2.png"/></td>
     </tr>
